@@ -1,0 +1,13 @@
+/* long list of attirubutes and what you want to change it to */
+h1 {
+  color: blueviolet; 
+}
+
+#secondHeader{
+    color: blue;
+}
+
+.paragraph{
+   /* names colors are usually able to be seen on most monitors */
+    color: red; 
+}
